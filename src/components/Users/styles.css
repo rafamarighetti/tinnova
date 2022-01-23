@@ -1,0 +1,9 @@
+.tabela-usuarios{
+  width: 100%;
+  height: 100vh;
+}
+
+.MuiDataGrid-columnHeaders {
+  background: #00c8b3;
+  color: #ffffff;
+}
